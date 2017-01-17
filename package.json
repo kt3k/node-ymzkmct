@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/watilde/node-ymzkmct",
   "dependencies": {
-    "picture-tube": "0.0.4"
+    "picture-tube": "1.0.0"
   }
 }
